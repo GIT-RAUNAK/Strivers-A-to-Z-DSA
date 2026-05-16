@@ -1,4 +1,4 @@
-// Left Rotate an Array by kth place - BRUTE
+// Right Rotate an Array by kth place - BRUTE
 
 #include<iostream>
 using namespace std;
