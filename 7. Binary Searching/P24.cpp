@@ -1,4 +1,4 @@
-// Split array - Largest Sum
+// Split array-Largest Sum
 
 #include<iostream>
 using namespace std;
